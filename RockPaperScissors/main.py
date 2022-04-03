@@ -1,4 +1,12 @@
-#Write your code below this line 👇
+'''
+Minigame done by: Sebastián Tamayo
+Language: Python
+Date: 03/04/2022
+Description:
+  A simple minigame of Rock Paper Scissors using radom numbers, modules and functions.
+  The code was made as part of the course: 100 Days of Code: The Complete Python Pro Bootcamp for 2022
+'''
+
 import game_module
 import random
 
