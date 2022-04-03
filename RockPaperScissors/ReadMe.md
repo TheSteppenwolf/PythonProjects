@@ -6,4 +6,4 @@ Python
 ## Date:
 03/04/2022
 ## Description:
-A simple minigame of Rock Paper and Scissors using radom numbers, modules and functions.
+A simple minigame of Rock Paper Scissors using radom numbers, modules and functions.
