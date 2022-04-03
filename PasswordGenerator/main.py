@@ -1,9 +1,9 @@
 '''
-Minigame done by: Sebastián Tamayo
+Project done by: Sebastián Tamayo
 Language: Python
 Date: 03/04/2022
 Description:
-  A simple Password Generator with a lo of potential that can generate passwords with great length and personilize it to use lower-case letters as well as upper-case letters, numbers and especial symbols.
+  A simple Password Generator with a lot of potential that can generate passwords with great length that can be personilized with the use lower-case letters as well as upper-case letters, numbers and especial symbols.
   The code was made as part of the course: 100 Days of Code: The Complete Python Pro Bootcamp for 2022
 '''
 
@@ -46,5 +46,4 @@ for letter in range(length):
 
 # Prints out the password
 print(f"You generated password is: {password}")
-    
-    
+   
